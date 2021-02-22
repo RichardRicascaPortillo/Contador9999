@@ -1,0 +1,17 @@
+D:\DESARROLLO\prueba\presentacion\bin\Debug\presentacion.exe.config
+D:\DESARROLLO\prueba\presentacion\bin\Debug\presentacion.exe
+D:\DESARROLLO\prueba\presentacion\bin\Debug\presentacion.pdb
+D:\DESARROLLO\prueba\presentacion\bin\Debug\entidades.dll
+D:\DESARROLLO\prueba\presentacion\bin\Debug\negocio.dll
+D:\DESARROLLO\prueba\presentacion\bin\Debug\datos.dll
+D:\DESARROLLO\prueba\presentacion\bin\Debug\entidades.pdb
+D:\DESARROLLO\prueba\presentacion\bin\Debug\negocio.pdb
+D:\DESARROLLO\prueba\presentacion\bin\Debug\datos.pdb
+D:\DESARROLLO\prueba\presentacion\obj\Debug\presentacion.csprojAssemblyReference.cache
+D:\DESARROLLO\prueba\presentacion\obj\Debug\presentacion.Form1.resources
+D:\DESARROLLO\prueba\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+D:\DESARROLLO\prueba\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+D:\DESARROLLO\prueba\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\prueba\presentacion\obj\Debug\presentacion.csproj.CopyComplete
+D:\DESARROLLO\prueba\presentacion\obj\Debug\presentacion.exe
+D:\DESARROLLO\prueba\presentacion\obj\Debug\presentacion.pdb

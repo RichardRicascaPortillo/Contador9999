@@ -1,0 +1,9 @@
+D:\DESARROLLO\prueba\datos\bin\Debug\datos.dll
+D:\DESARROLLO\prueba\datos\bin\Debug\datos.pdb
+D:\DESARROLLO\prueba\datos\bin\Debug\entidades.dll
+D:\DESARROLLO\prueba\datos\bin\Debug\entidades.pdb
+D:\DESARROLLO\prueba\datos\obj\Debug\datos.csprojAssemblyReference.cache
+D:\DESARROLLO\prueba\datos\obj\Debug\datos.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\prueba\datos\obj\Debug\datos.csproj.CopyComplete
+D:\DESARROLLO\prueba\datos\obj\Debug\datos.dll
+D:\DESARROLLO\prueba\datos\obj\Debug\datos.pdb

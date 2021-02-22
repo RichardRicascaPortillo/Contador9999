@@ -1,0 +1,11 @@
+D:\DESARROLLO\prueba\negocio\bin\Debug\negocio.dll
+D:\DESARROLLO\prueba\negocio\bin\Debug\negocio.pdb
+D:\DESARROLLO\prueba\negocio\bin\Debug\datos.dll
+D:\DESARROLLO\prueba\negocio\bin\Debug\entidades.dll
+D:\DESARROLLO\prueba\negocio\bin\Debug\datos.pdb
+D:\DESARROLLO\prueba\negocio\bin\Debug\entidades.pdb
+D:\DESARROLLO\prueba\negocio\obj\Debug\negocio.csprojAssemblyReference.cache
+D:\DESARROLLO\prueba\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\prueba\negocio\obj\Debug\negocio.csproj.CopyComplete
+D:\DESARROLLO\prueba\negocio\obj\Debug\negocio.dll
+D:\DESARROLLO\prueba\negocio\obj\Debug\negocio.pdb

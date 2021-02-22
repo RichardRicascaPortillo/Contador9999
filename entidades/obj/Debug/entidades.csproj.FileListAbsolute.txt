@@ -1,0 +1,6 @@
+D:\DESARROLLO\prueba\entidades\bin\Debug\entidades.dll
+D:\DESARROLLO\prueba\entidades\bin\Debug\entidades.pdb
+D:\DESARROLLO\prueba\entidades\obj\Debug\entidades.csprojAssemblyReference.cache
+D:\DESARROLLO\prueba\entidades\obj\Debug\entidades.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\prueba\entidades\obj\Debug\entidades.dll
+D:\DESARROLLO\prueba\entidades\obj\Debug\entidades.pdb
